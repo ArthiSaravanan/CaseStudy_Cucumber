@@ -1,5 +1,5 @@
 Feature: Casestudy1
-
+@Smoke
 Scenario: TestApp Registration
 
 Given user is on Registration page
